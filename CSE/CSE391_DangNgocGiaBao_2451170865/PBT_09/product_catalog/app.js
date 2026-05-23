@@ -211,4 +211,4 @@ function setupEvents() {
 createLayout();
 renderProducts(products);
 setupEvents();
-```
+
